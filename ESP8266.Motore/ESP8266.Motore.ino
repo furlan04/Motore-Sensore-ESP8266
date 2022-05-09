@@ -9,11 +9,11 @@ int vel = 250;
 
 EspMQTTClient client(
   //"Greppi-2G",
-  "Vodafone-A41734402",
+  "WIFI-SSID",
   //"withProxy",
-  "bqyKhMXsqtTsyK2g",
+  "WIFI-PASSWORD",
   //"172.17.3.46",
-  "192.168.1.8",
+  "BROKER ID",
   "",
   "",
   "ESP8266_Motore",
